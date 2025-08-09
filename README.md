@@ -45,7 +45,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](<img width="565" height="551" alt="Screenshot from 2025-08-09 09-41-23" src="https://github.com/user-attachments/assets/b2fe284e-8796-4f35-98c9-fdef41f03884" />)
+[Click here to view the demo](https://drive.google.com/file/d/1nwcYBEzOT4DudWZ4vpJbWGcTPi4eGj5U/view)
+
 *Displays the digital clock interface with LED-style font*
 
 
