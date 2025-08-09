@@ -32,7 +32,7 @@ People keep ignoring their alarms, snoozing them for hours, and blaming the cloc
 
 ### The Solution (that nobody asked for)
 
-Introducing “**Mom Mode**” — an alarm that starts off nice but quickly turns into angry-mom-nagging mode with scolding sound clips, guilt trips, and loud reminders that “you’re wasting your life!”
+Introducing “**Smart alarm clock**” — an alarm that starts off nice but quickly turns into  loud reminders that “you’re wasting your life!”
 
 ---
 
@@ -77,9 +77,7 @@ cd mom-mode-alarm-clock
 
 ##### ▶️ Run
 
-```bash
-# Open index.html in your browser OR use Live Server in VS Code
-```
+https://repeat-5-b7h8nnywh-nand0ana00s-projects.vercel.app
 
 ---
 
