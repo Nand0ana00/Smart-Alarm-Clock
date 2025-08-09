@@ -45,7 +45,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-[Click here to view the demo](https://drive.google.com/file/d/1nwcYBEzOT4DudWZ4vpJbWGcTPi4eGj5U/view)
+![Smart Alarm Screenshot](https://drive.google.com/uc?export=view&id=1nwcYBEzOT4DudWZ4vpJbWGcTPi4eGj5U)
+
 
 *Displays the digital clock interface with LED-style font*
 
