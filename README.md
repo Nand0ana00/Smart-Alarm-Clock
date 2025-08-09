@@ -76,8 +76,7 @@ cd mom-mode-alarm-clock
 ```
 
 ##### ▶️ Run
-
-https://repeat-5-b7h8nnywh-nand0ana00s-projects.vercel.app
+https://repeat-5-git-main-nand0ana00s-projects.vercel.app?_vercel_share=nu8dwUAowURmn8atF4yHyszcTvTjSC4L
 
 ---
 
