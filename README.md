@@ -1,4 +1,4 @@
-<img width="565" height="551" alt="Screenshot from 2025-08-09 09-41-23" src="https://github.com/user-attachments/assets/b2fe284e-8796-4f35-98c9-fdef41f03884" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
 # [Smart Alarm Clock] 🎯
@@ -45,8 +45,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![<img width="565" height="551" alt="Screenshot from 2025-08-09 09-41-23" src="https://github.com/user-attachments/assets/54adf0bd-187d-4e15-9915-ec03f9227a11" />
-]()
+![Screenshot1](<img width="565" height="551" alt="Screenshot from 2025-08-09 09-41-23" src="https://github.com/user-attachments/assets/b2fe284e-8796-4f35-98c9-fdef41f03884" />)
 *Displays the digital clock interface with LED-style font*
 
 
