@@ -16,9 +16,13 @@
 
 ### Project Description
 
-A quirky, fun alarm clock that starts with a gentle mom-like voice and gets angrier the longer you ignore it. Designed to be uselessly effective at annoying you into waking up!
+A web-based alarm clock that not only tells time but also helps users wake up effectively by:
 
----
+    Starting voice reminders 1 hour before the alarm time.
+
+    Playing a random motivational or wake-up message every 5 minutes using browser speech synthesis.
+
+    Allowing users to pause, stop, or reset the alarm for better control.
 
 ### The Problem (that doesn't exist)
 
