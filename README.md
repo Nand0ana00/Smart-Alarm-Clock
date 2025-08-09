@@ -1,10 +1,8 @@
 # Smart-Alarm-Clock
 
-Here’s your completed **Project README** format filled with the previously discussed details. Feel free to update placeholder values like team names, member names, and demo links:
 
----
 
-# ⏰ **Mom Mode Alarm Clock** 🎯
+# ⏰ **Smart Alarm Clock** 🎯
 
 ## Basic Details
 
