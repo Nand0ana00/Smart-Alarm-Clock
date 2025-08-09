@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart Alarm Clock</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1>⏰ Repeat-5</h1>
+    <div id="clock">00:00:00</div>
+
+    <label for="alarmTime">Set Alarm Time:</label>
+    <input type="time" id="alarmTime">
+    <div class="buttons">
+      <button onclick="setAlarm()">Set</button>
+      <button onclick="pauseAlarm()">Pause</button>
+      <button onclick="stopAlarm()">Stop</button>
+      <button onclick="resetAlarm()">Reset</button>
+    </div>
+
+    <p id="status">No alarm set</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
